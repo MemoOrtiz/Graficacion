@@ -1,0 +1,6 @@
+**/.DS_Store
+# Ignorar carpetas y archivos de documentación de Unity
+Docs/
+Library/
+*.xml
+*.log
